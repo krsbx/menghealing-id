@@ -1,3 +1,4 @@
+// Muhammad Firdaus Sati (119140150)
 apply plugin: "com.android.application"
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 
